@@ -1,0 +1,11 @@
+colors=('red','blue','green','yellow')
+print(colors)
+print(len(colors))
+dress=('pant','frock','shirt')
+print(colors+dress)
+print(dress*2)
+print(colors[1:])
+print(colors[::-1])
+newcolors=list(colors[::])
+print(newcolors)
+
